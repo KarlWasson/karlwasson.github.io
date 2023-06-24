@@ -9,6 +9,8 @@ gem "just-the-docs", "0.5.3" # pinned to the current release
 gem 'jekyll-seo-tag'
 # gem for "jekyll seo tag"
 
+gem "jekyll-github-metadata"
+
 gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
