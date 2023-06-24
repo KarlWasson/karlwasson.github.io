@@ -9,7 +9,7 @@ permalink: /
 # Plain Language Technical Writing Guide
 
 Welcome to the plain language for technical writing guide. This set of articles provides everything you need to start technical writing using plain language. Our goal is to make it easier to write helpful technical documents.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
