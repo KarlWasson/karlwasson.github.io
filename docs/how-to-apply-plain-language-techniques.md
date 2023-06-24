@@ -23,6 +23,8 @@ nav_order: 4
 - Anticipate questions an informed reader is likely to ask.
 - Organize your writing to answer questions in the order the reader will ask them.
 
+---
+
 ### 2. Use headings to break up text into logical chunks
 
 - Make your content scannable, allowing readers to quickly find relevant information.
@@ -31,6 +33,8 @@ nav_order: 4
 - Informative headings help the reader navigate the document.
 - Use question headings to address readers' questions and facilitate their understanding.
 
+---
+
 ### 3. Use lists
 
 - Make it easier for the reader to grasp all items or steps in a process.
@@ -38,6 +42,8 @@ nav_order: 4
 - Lists help readers see the structure of your document.
 - Make lists shorter, as long lists can be challenging to navigate.
 - Consider grouping items into subgroups or organizing them alphabetically.
+
+---
 
 ### 4. Use tables
 
@@ -57,6 +63,6 @@ nav_order: 4
 
    ---
 
-## **Activity 4: Organize into a list or table:**
+## Activity 4: Organize into a list or table:
 
 ShareTime offers a powerful platform for building modern web and mobile applications with real-time functionality. With the ability to sync client state globally over WebSockets, ShareTime provides a seamless and efficient way to handle data updates. By leveraging ShareTime, organizations can easily start projects and access comprehensive documentation for guidance. The platform offers features such as real-time broadcast, allowing users to listen to database changes, including inserts, updates, and deletes. Additionally, ShareTime enables the synchronization of online user presence across multiple clients and facilitates broadcasting data to clients subscribed to the same channel. The platform empowers organizations to build a wide range of real-time applications effortlessly, including toast messages, live avatars, live cursors, leaderboards, live charts, in-app chat, shared text editors, shared whiteboards, location tracking, multiplayer games, and form presence. With simple and convenient APIs, developers can work with ease using powerful libraries that support both client and server-side applications. Explore the extensive documentation provided by ShareTime to harness its capabilities and build scalable applications that can handle millions of users, even starting from a weekend project.

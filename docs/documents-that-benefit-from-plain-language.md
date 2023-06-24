@@ -23,6 +23,8 @@ nav_order: 3
 
 Consider which documents help people achieve their goals on your website or in your technical marketing materials.
 
+---
+
 ## External Documents
 
 These are documents customers and clients need to:
@@ -43,6 +45,8 @@ These are documents customers and clients need to:
 - White papers
 - Blogs
 
+---
+
 ## Internal Documents
 
 These are documents relevant to internal operations and communication:
@@ -53,7 +57,9 @@ These are documents relevant to internal operations and communication:
 - Job descriptions
 - Requests
 
-**Activity 3: Match the goal to the information in the document:**
+---
+
+## Activity 3: Match the goal to the information in the document:
 Find examples of easy-to-use documentation. Check off the language techniques you find in the document.
 
 For example, [Mozilla MDN Web Documents](https://developer.mozilla.org/en-US/docs/Learn).
