@@ -5,9 +5,6 @@ layout: home
 
 This document is a plain language guide to aid technical writers. You can read references, summaries, tips, and exercises.
 
-
-This site is built with:
-
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
