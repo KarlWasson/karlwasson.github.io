@@ -36,7 +36,7 @@ nav_order: 7
 
 ### Types of Jargon
 
-- Necessary technical terms: Utilize technical terms essential for understanding the subject matter, but provide explanations or context when introducing them.
+- Unnecessary technical terms: Utilize technical terms essential for understanding the subject matter, but provide explanations or context when introducing them.
 - Obscure and pretentious language: Avoid using convoluted or lengthy words, archaic phrases like "herby" or "wherefore," and excessive Latin terminology.
 
 --
