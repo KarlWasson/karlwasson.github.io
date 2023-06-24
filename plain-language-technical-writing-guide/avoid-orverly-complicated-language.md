@@ -16,10 +16,6 @@ nav_order: 7
 1. TOC
 {:toc}
 
----
-
-**Why?** Cross-team communication between engineers, marketing, and non-technical decision-makers can be challenging if technical jargon and acronyms are open.
-
 --
 
 1. **Limit jargon and acronyms:**
