@@ -13,6 +13,8 @@ enable_copy_code_button: true
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
+  - jekyll-sitemap
+
 
 kramdown:
   syntax_highlighter_opts:

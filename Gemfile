@@ -11,6 +11,8 @@ gem 'jekyll-seo-tag'
 
 gem "jekyll-github-metadata"
 
+gem 'jekyll-sitemap'
+
 gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
