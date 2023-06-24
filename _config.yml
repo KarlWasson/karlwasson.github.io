@@ -4,6 +4,12 @@ theme: just-the-docs
 
 url: https://www.accessibletechwriting.org
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/favicon.svg"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.svg"
+
 aux_links:
   Karl Wasson: https://karlwasson.com
 
