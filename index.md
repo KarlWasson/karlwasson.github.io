@@ -8,7 +8,7 @@ permalink: /
 
 # Plain Language Technical Writing Guide
 
-Welcome to the plain language for technical writing guide. This set of articles aims to guide beginners to plain language writing, providing all they need to start technical writing. Our goal is to make it easier to write technical documents.
+Welcome to the plain language for technical writing guide. This set of articles provides you plan language writing best practices, providing all you need to start technical writing. Our goal is to make it easier to write technical documents.
 {: .fs-6 .fw-300 }
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
