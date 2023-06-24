@@ -5,3 +5,8 @@ gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.5.3" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
+# gems for bundler
