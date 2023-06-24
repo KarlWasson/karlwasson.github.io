@@ -1,7 +1,12 @@
 ---
 title: Home
-layout: home
+layout: default
+nav_order: 1
+description: A guide for accessible, plain language writing.
+permalink: /
 ---
+
+## Write for people
 
 This document is a plain language guide to aid technical writers. You can read references, summaries, tips, and exercises.
 
