@@ -15,7 +15,12 @@ plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
 
-
+defaults:
+  -
+    scope:
+      path:            "assets/**/*.css"
+    values:
+      sitemap:         false
 kramdown:
   syntax_highlighter_opts:
     block:
